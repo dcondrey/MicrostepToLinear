@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For MicrostepToLinear
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MicrostepToLinear	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setStepAngle	KEYWORD2
+setMicrosteps	KEYWORD2
+setPitch	KEYWORD2
+convert	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
